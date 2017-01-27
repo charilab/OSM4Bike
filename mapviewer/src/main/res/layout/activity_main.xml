@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:fitsSystemWindows="true"
+    android:keepScreenOn="true"
+    tools:context="jp.ne.sakura.charilab.mapviewer.MainActivity">
+
+<org.mapsforge.map.android.view.MapView
+    android:id="@+id/mapView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</org.mapsforge.map.android.view.MapView>
+
+<ImageButton android:id="@+id/location"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:layout_gravity="top|start" android:layout_margin="16dp"
+    app:srcCompat="@android:drawable/ic_menu_mylocation"
+    android:tint="@color/colorPrimaryDark"
+    android:background="?android:selectableItemBackground"/>
+
+<ImageButton android:id="@+id/menu"
+    android:layout_width="wrap_content" android:layout_height="wrap_content"
+    android:layout_gravity="top|end" android:layout_margin="16dp"
+    app:srcCompat="@android:drawable/ic_menu_more"
+    android:tint="@color/colorPrimaryDark"
+    android:background="?android:selectableItemBackground"/>
+
+</android.support.design.widget.CoordinatorLayout>

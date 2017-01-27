@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike" />
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike/app" />
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike/geoutils" />
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike/maplibs" />
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike/mapviewer" />
+            <option value="/Volumes/work/uno/work/charilab/OSM4Bike/ui" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

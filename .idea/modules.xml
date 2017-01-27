@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/OSM4Bike.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/OSM4Bike.iml" />
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/app/app.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/app/app.iml" />
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/geoutils/geoutils.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/geoutils/geoutils.iml" />
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/maplibs/maplibs.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/maplibs/maplibs.iml" />
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/mapviewer/mapviewer.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/mapviewer/mapviewer.iml" />
+      <module fileurl="file:///Volumes/work/uno/work/charilab/OSM4Bike/ui/ui.iml" filepath="/Volumes/work/uno/work/charilab/OSM4Bike/ui/ui.iml" />
+    </modules>
+  </component>
+</project>
